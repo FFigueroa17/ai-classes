@@ -1,0 +1,10 @@
+**/venv/
+
+Tasks/Task5/bag
+Tasks/Task5/dataset
+Tasks/Task5/images
+Tasks/Task5/videos
+
+./venv/
+P1
+.DS_Store
